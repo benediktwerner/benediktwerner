@@ -57,8 +57,8 @@ See also [benediktwerner.github.io](https://benediktwerner.github.io/) for a liv
 
 ### Advent Of Code
 
-<a href="https://github.com/benediktwerner/aoc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=aoc" />
+<a href="https://github.com/benediktwerner/AdventOfCode">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=AdventOfCode" />
 </a>
 <a href="https://github.com/benediktwerner/intcode">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=intcode" />
@@ -72,8 +72,8 @@ See also [benediktwerner.github.io](https://benediktwerner.github.io/) for a liv
 <a href="https://github.com/benediktwerner/Desperados3Mods">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=Desperados3Mods" />
 </a>
-<a href="https://github.com/ytinu/ytinu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ytinu&repo=ytinu" />
+<a href="https://github.com/ytinu-mods/ytinu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ytinu-mods&repo=ytinu" />
 </a>
 <a href="https://github.com/benediktwerner/MF22Mods">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=MF22Mods" />
