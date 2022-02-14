@@ -5,9 +5,6 @@ Currently one of the main contributors to [lichess.org](https://lichess.org), th
 <a href="https://github.com/lichess-org/lila">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lichess-org&repo=lila&show_owner=true" />
 </a>
-<a href="https://github.com/benediktwerner/lichess-docker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=lichess-docker" />
-</a>
 
 ## My Projects
 
@@ -18,9 +15,6 @@ Currently one of the main contributors to [lichess.org](https://lichess.org), th
 </a>
 <a href="https://github.com/benediktwerner/wasmdbg">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=wasmdbg" />
-</a>
-<a href="https://github.com/benediktwerner/bwasm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=bwasm" />
 </a>
 <a href="https://github.com/benediktwerner/cscg2020">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=cscg2020" />
@@ -33,6 +27,9 @@ Currently one of the main contributors to [lichess.org](https://lichess.org), th
 
 See also [benediktwerner.github.io](https://benediktwerner.github.io/) for a live versions of the web based tools.
 
+<a href="https://github.com/benediktwerner/lichess-docker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=lichess-docker" />
+</a>
 <a href="https://github.com/benediktwerner/liusearch">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=liusearch" />
 </a>
@@ -105,9 +102,6 @@ See also [benediktwerner.github.io](https://benediktwerner.github.io/) for a liv
 <a href="https://github.com/benediktwerner/KTANEPasswordCracker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=KTANEPasswordCracker" />
 </a>
-<a href="https://github.com/benediktwerner/SudokuSolverJava">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=SudokuSolverJava" />
-</a>
 <a href="https://github.com/benediktwerner/SudokuSolverPython">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=SudokuSolverPython" />
 </a>
@@ -149,9 +143,6 @@ See also [benediktwerner.github.io](https://benediktwerner.github.io/) for a liv
 
 Some stuff I worked on before, during and after my internship at SUSE in 2016.
 
-<a href="https://github.com/saltstack/salt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saltstack&repo=salt&show_owner=true" />
-</a>
 <a href="https://github.com/benediktwerner/FormulaManage">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=FormulaManager" />
 </a>
