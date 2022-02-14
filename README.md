@@ -81,35 +81,35 @@ See also [benediktwerner.github.io](https://benediktwerner.github.io/) for a liv
 
 ### Game Solvers & Tools
 
+<a href="https://github.com/benediktwerner/bad-north-save-game-editor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=bad-north-save-game-editor" />
+</a>
+<a href="https://github.com/benediktwerner/vampire-survivors-power-up-calculator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=vampire-survivors-power-up-calculator" />
+</a>
+<a href="https://github.com/benediktwerner/Minesweeper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=Minesweeper" />
+</a>
+<a href="https://github.com/benediktwerner/SudokuSolverPython">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=SudokuSolverPython" />
+</a>
+<a href="https://github.com/benediktwerner/WoodRiddleSolver">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=WoodRiddleSolver" />
+</a>
 <a href="https://github.com/benediktwerner/NonogrammSolver">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=NonogrammSolver" />
 </a>
 <a href="https://github.com/benediktwerner/CrossCellsSolver">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=CrossCellsSolver" />
 </a>
-<a href="https://github.com/benediktwerner/WoodRiddleSolver">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=WoodRiddleSolver" />
-</a>
 <a href="https://github.com/benediktwerner/WordLadder">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=WordLadder" />
-</a>
-<a href="https://github.com/benediktwerner/Minesweeper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=Minesweeper" />
 </a>
 <a href="https://github.com/benediktwerner/trees-and-tents">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=trees-and-tents" />
 </a>
 <a href="https://github.com/benediktwerner/KTANEPasswordCracker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=KTANEPasswordCracker" />
-</a>
-<a href="https://github.com/benediktwerner/SudokuSolverPython">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=SudokuSolverPython" />
-</a>
-<a href="https://github.com/benediktwerner/bad-north-save-game-editor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=bad-north-save-game-editor" />
-</a>
-<a href="https://github.com/benediktwerner/vampire-survivors-power-up-calculator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=vampire-survivors-power-up-calculator" />
 </a>
 
 ### Other Games Stuff
@@ -137,15 +137,4 @@ See also [benediktwerner.github.io](https://benediktwerner.github.io/) for a liv
 </a>
 <a href="https://github.com/benediktwerner/KorrekturTool">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=KorrekturTool" />
-</a>
-
-### Salt / Formulas / SUSE Manager / Uyuni
-
-Some stuff I worked on before, during and after my internship at SUSE in 2016.
-
-<a href="https://github.com/benediktwerner/FormulaManager">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=FormulaManager" />
-</a>
-<a href="https://github.com/benediktwerner/openstack-formula">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=openstack-formula" />
 </a>
