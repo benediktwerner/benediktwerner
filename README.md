@@ -143,7 +143,7 @@ See also [benediktwerner.github.io](https://benediktwerner.github.io/) for a liv
 
 Some stuff I worked on before, during and after my internship at SUSE in 2016.
 
-<a href="https://github.com/benediktwerner/FormulaManage">
+<a href="https://github.com/benediktwerner/FormulaManager">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=FormulaManager" />
 </a>
 <a href="https://github.com/benediktwerner/openstack-formula">
