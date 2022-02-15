@@ -39,14 +39,14 @@ See also [benediktwerner.github.io](https://benediktwerner.github.io/) for a liv
 <a href="https://github.com/benediktwerner/Twitch-Chat-vs-Streamer-Lichess">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=Twitch-Chat-vs-Streamer-Lichess" />
 </a>
-<a href="https://github.com/benediktwerner/lichess-themed-tournament-schedule">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=lichess-themed-tournament-schedule" />
+<a href="https://github.com/benediktwerner/lichess-list-banned-team-members">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=lichess-list-banned-team-members" />
 </a>
 <a href="https://github.com/benediktwerner/lichess-challenge-list">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=lichess-challenge-list" />
 </a>
-<a href="https://github.com/benediktwerner/lichess-list-banned-team-members">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=lichess-list-banned-team-members" />
+<a href="https://github.com/benediktwerner/lichess-themed-tournament-schedule">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=lichess-themed-tournament-schedule" />
 </a>
 <a href="https://github.com/benediktwerner/fide-binance">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=fide-binance" />
@@ -102,11 +102,11 @@ See also [benediktwerner.github.io](https://benediktwerner.github.io/) for a liv
 <a href="https://github.com/benediktwerner/CrossCellsSolver">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=CrossCellsSolver" />
 </a>
-<a href="https://github.com/benediktwerner/WordLadder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=WordLadder" />
-</a>
 <a href="https://github.com/benediktwerner/trees-and-tents">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=trees-and-tents" />
+</a>
+<a href="https://github.com/benediktwerner/WordLadder">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=WordLadder" />
 </a>
 <a href="https://github.com/benediktwerner/KTANEPasswordCracker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=KTANEPasswordCracker" />
