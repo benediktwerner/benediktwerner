@@ -1,4 +1,4 @@
-Interested in IT security, compilers/programing languages, reverse engineering, game modding, competetive programing, genealogy, and web technologies.
+Interested in IT security, compilers/programming languages, reverse engineering, game modding, competitive programming, genealogy, and web technologies.
 
 Currently one of the main contributors to [lichess.org](https://lichess.org), the 100% free, open-source, adless, and worldwide second-biggest chess website.
 
