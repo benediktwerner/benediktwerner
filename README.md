@@ -81,11 +81,17 @@ See also [benediktwerner.github.io](https://benediktwerner.github.io/) for a liv
 
 ### Game Solvers & Tools
 
-<a href="https://github.com/benediktwerner/bad-north-save-game-editor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=bad-north-save-game-editor" />
+<a href="https://github.com/benediktwerner/opus_magnum_sigmars_garden">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=opus_magnum_sigmars_garden" />
 </a>
 <a href="https://github.com/benediktwerner/vampire-survivors-power-up-calculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=vampire-survivors-power-up-calculator" />
+</a>
+<a href="https://github.com/benediktwerner/bad-north-save-game-editor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=bad-north-save-game-editor" />
+</a>
+<a href="https://github.com/benediktwerner/KTANEPasswordCracker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=KTANEPasswordCracker" />
 </a>
 <a href="https://github.com/benediktwerner/Minesweeper">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=Minesweeper" />
@@ -107,9 +113,6 @@ See also [benediktwerner.github.io](https://benediktwerner.github.io/) for a liv
 </a>
 <a href="https://github.com/benediktwerner/WordLadder">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=WordLadder" />
-</a>
-<a href="https://github.com/benediktwerner/KTANEPasswordCracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=KTANEPasswordCracker" />
 </a>
 
 ### Other Games Stuff
