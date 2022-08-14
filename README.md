@@ -105,9 +105,9 @@ See also [benediktwerner.github.io](https://benediktwerner.github.io/) for a liv
 <a href="https://github.com/benediktwerner/WoodRiddleSolver">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=WoodRiddleSolver" />
 </a>
-<a href="https://github.com/benediktwerner/NonogrammSolver">
+<!--<a href="https://github.com/benediktwerner/NonogrammSolver">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=NonogrammSolver" />
-</a>
+</a>-->
 <a href="https://github.com/benediktwerner/CrossCellsSolver">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=CrossCellsSolver" />
 </a>
