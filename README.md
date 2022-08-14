@@ -81,6 +81,9 @@ See also [benediktwerner.github.io](https://benediktwerner.github.io/) for a liv
 
 ### Game Solvers & Tools
 
+<a href="https://github.com/benediktwerner/stacklands-combat-simulator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=stacklands-combat-simulator" />
+</a>
 <a href="https://github.com/benediktwerner/opus_magnum_sigmars_garden">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=opus_magnum_sigmars_garden" />
 </a>
@@ -92,6 +95,9 @@ See also [benediktwerner.github.io](https://benediktwerner.github.io/) for a liv
 </a>
 <a href="https://github.com/benediktwerner/KTANEPasswordCracker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=KTANEPasswordCracker" />
+</a>
+<a href="https://github.com/benediktwerner/WordLadder">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=WordLadder" />
 </a>
 <a href="https://github.com/benediktwerner/Minesweeper">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=Minesweeper" />
@@ -110,9 +116,6 @@ See also [benediktwerner.github.io](https://benediktwerner.github.io/) for a liv
 </a>
 <a href="https://github.com/benediktwerner/trees-and-tents">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=trees-and-tents" />
-</a>
-<a href="https://github.com/benediktwerner/WordLadder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=WordLadder" />
 </a>
 
 ### Other Games Stuff
