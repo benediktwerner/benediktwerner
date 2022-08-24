@@ -78,6 +78,18 @@ See also [benediktwerner.github.io](https://benediktwerner.github.io/) for a liv
 <a href="https://github.com/benediktwerner/RewiredBlocker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=RewiredBlocker" />
 </a>
+<a href="https://github.com/benediktwerner/Stacklands-GolemAutomation-Mod">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=Stacklands-GolemAutomation-Mod" />
+</a>
+<a href="https://github.com/benediktwerner/Stacklands-DebugCheats-Mod">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=Stacklands-DebugCheats-Mod" />
+</a>
+<a href="https://github.com/benediktwerner/Stacklands-LargerBoard-Mod">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=Stacklands-LargerBoard-Mod" />
+</a>
+<a href="https://github.com/benediktwerner/Stacklands-FixGrid-Mod">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=Stacklands-FixGrid-Mod" />
+</a>
 
 ### Game Solvers & Tools
 
