@@ -96,8 +96,8 @@ See also [benediktwerner.github.io](https://benediktwerner.github.io/) for a liv
 <a href="https://github.com/benediktwerner/stacklands-combat-simulator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=stacklands-combat-simulator" />
 </a>
-<a href="https://github.com/benediktwerner/Minesweeper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=Minesweeper" />
+<a href="https://github.com/benediktwerner/taiji-z3-solver">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=taiji-z3-solver" />
 </a>
 <a href="https://github.com/benediktwerner/opus_magnum_sigmars_garden">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=opus_magnum_sigmars_garden" />
@@ -117,14 +117,17 @@ See also [benediktwerner.github.io](https://benediktwerner.github.io/) for a liv
 <a href="https://github.com/benediktwerner/WoodRiddleSolver">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=WoodRiddleSolver" />
 </a>
-<!--<a href="https://github.com/benediktwerner/NonogrammSolver">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=NonogrammSolver" />
-</a>-->
 <a href="https://github.com/benediktwerner/CrossCellsSolver">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=CrossCellsSolver" />
 </a>
 <a href="https://github.com/benediktwerner/trees-and-tents">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=trees-and-tents" />
+</a>
+<a href="https://github.com/benediktwerner/Minesweeper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=Minesweeper" />
+</a>
+<a href="https://github.com/benediktwerner/NonogrammSolver">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=NonogrammSolver" />
 </a>
 <a href="https://github.com/benediktwerner/WordLadder">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=WordLadder" />
