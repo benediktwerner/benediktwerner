@@ -51,6 +51,9 @@ See also [benediktwerner.github.io](https://benediktwerner.github.io/) for a liv
 <a href="https://github.com/benediktwerner/fide-binance">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=fide-binance" />
 </a>
+<a href="https://github.com/benediktwerner/lichess-tournament-scheduler">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=lichess-tournament-scheduler" />
+</a>
 
 ### Advent Of Code
 
