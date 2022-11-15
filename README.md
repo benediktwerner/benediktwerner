@@ -75,24 +75,22 @@ See also [benediktwerner.github.io](https://benediktwerner.github.io/) for a liv
 <a href="https://github.com/ytinu-mods/ytinu">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ytinu-mods&repo=ytinu" />
 </a>
-<a href="https://github.com/benediktwerner/MF22Mods">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=MF22Mods" />
+<a href="https://github.com/benediktwerner/BepInEx-UnityMod-Template">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=BepInEx-UnityMod-Template" />
 </a>
 <a href="https://github.com/benediktwerner/RewiredBlocker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=RewiredBlocker" />
 </a>
-<a href="https://github.com/benediktwerner/Stacklands-GolemAutomation-Mod">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=Stacklands-GolemAutomation-Mod" />
-</a>
-<a href="https://github.com/benediktwerner/Stacklands-DebugCheats-Mod">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=Stacklands-DebugCheats-Mod" />
-</a>
-<a href="https://github.com/benediktwerner/Stacklands-LargerBoard-Mod">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=Stacklands-LargerBoard-Mod" />
-</a>
-<a href="https://github.com/benediktwerner/Stacklands-FixGrid-Mod">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=Stacklands-FixGrid-Mod" />
-</a>
+
+#### Stacklands Mods
+- [Golem Automation](https://github.com/benediktwerner/Stacklands-GolemAutomation-Mod)
+- [Compact Storage](https://github.com/benediktwerner/Stacklands-CompactStorage-Mod)
+- [Larger Board](https://github.com/benediktwerner/Stacklands-LargerBoard-Mod)
+- [Debug Cheats](https://github.com/benediktwerner/Stacklands-DebugCheats-Mod)
+- [Fix Grid](https://github.com/benediktwerner/Stacklands-FixGrid-Mod)
+- [Faster End Of Months](https://github.com/benediktwerner/Stacklands-FasterEndOfMonths-Mod)
+- [Better Mouse Controls](https://github.com/benediktwerner/Stacklands-BetterMouseControls-Mod)
+- [Less Lag](https://github.com/benediktwerner/Stacklands-LessLag-Mod)
 
 ### Game Solvers & Tools
 
