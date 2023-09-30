@@ -25,7 +25,7 @@ Currently one of the main contributors to [lichess.org](https://lichess.org), th
 
 ### Lichess Tools
 
-See also [benediktwerner.github.io](https://benediktwerner.github.io/) for a live versions of the web based tools.
+See also [benediktwerner.github.io](https://benediktwerner.github.io/) for live versions of the web based tools.
 
 <a href="https://github.com/benediktwerner/lichess-docker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=lichess-docker" />
