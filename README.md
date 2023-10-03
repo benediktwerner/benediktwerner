@@ -81,6 +81,9 @@ See also [benediktwerner.github.io](https://benediktwerner.github.io/) for live 
 <a href="https://github.com/benediktwerner/RewiredBlocker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=RewiredBlocker" />
 </a>
+<a href="https://github.com/benediktwerner/FTL-Multiverse-Judge-Boon-Selector-Mod">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=FTL-Multiverse-Judge-Boon-Selector-Mod" />
+</a>
 
 #### Stacklands Mods
 - [Golem Automation](https://github.com/benediktwerner/Stacklands-GolemAutomation-Mod)
