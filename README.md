@@ -1,6 +1,6 @@
 Interested in IT security, compilers/programming languages, reverse engineering, game modding, competitive programming, web technologies, and building fast, reliable, and intuitive software.
 
-Currently one of the main contributors to [lichess.org](https://lichess.org), the 100% free, open-source, adless, and worldwide second-biggest chess website.
+Half-retired core contributor to [lichess.org](https://lichess.org), the 100% free, open-source, adless, and worldwide second-biggest chess website:
 
 <a href="https://github.com/lichess-org/lila">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lichess-org&repo=lila&show_owner=true" />
