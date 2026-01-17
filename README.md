@@ -19,7 +19,7 @@ Interested in IT security, compilers/programming languages, reverse engineering,
 
 ### Lichess Tools
 
-I'm a mostly retired core contributor to [lichess.org](https://lichess.org), a 100% free, adless, and open source chess website and the second-largest chess webstite worldwide.
+I'm a mostly retired core contributor to [lichess.org](https://lichess.org), a 100% free, adless, and open source chess website and the second-largest chess website worldwide.
 
 <a href="https://github.com/lichess-org/lila">
   <img align="center" src="https://github-readme-stats-benediktwerner.vercel.app/api/pin/?username=lichess-org&repo=lila&show_owner=true" />
