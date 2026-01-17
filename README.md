@@ -25,6 +25,8 @@ I'm a mostly retired core contributor to [lichess.org](https://lichess.org), a 1
   <img align="center" src="https://github-readme-stats-benediktwerner.vercel.app/api/pin/?username=lichess-org&repo=lila&show_owner=true" />
 </a>
 
+<br>
+
 Here's a collection of random Lichess-related tools I wrote over the years.
 
 See also [benediktwerner.github.io](https://benediktwerner.github.io/) for live versions of the web based tools.
