@@ -1,10 +1,4 @@
-Interested in IT security, compilers/programming languages, reverse engineering, game modding, competitive programming, web technologies, and building fast, reliable, and intuitive software.
-
-Half-retired core contributor to [lichess.org](https://lichess.org), the 100% free, open-source, adless, and worldwide second-biggest chess website:
-
-<a href="https://github.com/lichess-org/lila">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lichess-org&repo=lila&show_owner=true" />
-</a>
+Interested in IT security, compilers/programming languages, reverse engineering, game modding, and competitive programming.
 
 ## My Projects
 
@@ -24,6 +18,14 @@ Half-retired core contributor to [lichess.org](https://lichess.org), the 100% fr
 </a>
 
 ### Lichess Tools
+
+I'm a mostly retired core contributor to [lichess.org](https://lichess.org), a 100% free, adless, and open source chess website and the second-largest chess webstite worldwide.
+
+<a href="https://github.com/lichess-org/lila">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lichess-org&repo=lila&show_owner=true" />
+</a>
+
+Here's a collection of random Lichess-related tools I wrote over the years.
 
 See also [benediktwerner.github.io](https://benediktwerner.github.io/) for live versions of the web based tools.
 
@@ -53,6 +55,9 @@ See also [benediktwerner.github.io](https://benediktwerner.github.io/) for live 
 </a>
 <a href="https://github.com/benediktwerner/lichess-tournament-scheduler">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=lichess-tournament-scheduler" />
+</a>
+<a href="https://github.com/benediktwerner/lidiscord-bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benediktwerner&repo=lidiscord-bot" />
 </a>
 
 ### Advent Of Code
