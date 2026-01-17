@@ -168,6 +168,3 @@ See also [benediktwerner.github.io](https://benediktwerner.github.io/) for live 
 <a href="https://github.com/benediktwerner/RobotCarolCalculator">
   <img align="center" src="https://github-readme-stats-benediktwerner.vercel.app/api/pin/?username=benediktwerner&repo=RobotCarolCalculator" />
 </a>
-<a href="https://github.com/benediktwerner/KorrekturTool">
-  <img align="center" src="https://github-readme-stats-benediktwerner.vercel.app/api/pin/?username=benediktwerner&repo=KorrekturTool" />
-</a>
